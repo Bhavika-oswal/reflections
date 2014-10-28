@@ -1,0 +1,2 @@
+using git init we can initialise a repository.
+
