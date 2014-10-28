@@ -1,0 +1,7 @@
+It helps us to view the bug easily.
+we dont need to sit and compare each line.we can easily compare are versions of files.
+pros are that we can commit whenever we want and cons are like most of the time we dont understand when to commit.
+it is good that we can save multiple file in one commit.
+git log is used to see the commits and their id's made so far.
+git diff is used to see the no of insertions and deletions made.
+
