@@ -1,2 +1,3 @@
 using git init we can initialise a repository.
+working directory is where we make changes and then we add files to staging area to commit are work.
 
